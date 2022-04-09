@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **JavaScript and trying to master it!**
 
-- 👨‍💻 All of my projects are available at [[coming soon]]([coming soon])
+- 👨‍💻 All of my projects are available at ([coming soon])
 
 - 💬 Ask me about **Web and application. you can also ask me about full-stack development in all its corners (maybe I will know how to answer maybe not)**
 
